@@ -15,6 +15,7 @@ public class ImprimeSePositivoV2 {
         }
         else{
             System.out.print("Valor Digitado não é positivo ");
+            
         }
 
     }
